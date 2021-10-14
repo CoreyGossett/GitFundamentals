@@ -25,4 +25,3 @@ Init will create the repository in the current dirextory and will encapsulate al
 ---
 
 [Back to Home](../README.md)
-
